@@ -15,7 +15,9 @@ Known to work with:
   * SKYROKU SM-PW701U Wi-Fi Plug Smart Plug - see https://wikidevi.com/wiki/Xenon_SM-PW701U
   * Wuudi SM-S0301-US - WIFI Smart Power Socket Multi Plug with 4 AC Outlets and 4 USB Charging
   
+  
 Getting started:
+    
     pip install pytuya
 
 
